@@ -3,6 +3,6 @@
 using namespace std;
 
 int principal(){
-    cout << "Hola Mundo";
+    cout << "Hola Mundo, pero con corrección";
     return 0;
 }
